@@ -7,13 +7,12 @@
 ## 🔗 Essential Links
 
 ### Dataset (Google Drive)
-**Status:** ⏳ PLACEHOLDER  
+**Status:** ⏳   
 **Purpose:** Training dataset with images and labels
 
 ```
-Google Drive Link: [PASTE YOUR DATASET LINK HERE]
-Format: https://drive.google.com/drive/folders/YOUR_FOLDER_ID
-Share Setting: Must be shared (Viewer access minimum)
+Google Drive Link: https://drive.google.com/drive/folders/1K_dG97WgqJiI14l4B9YQxJoDKqa4jcZo?usp=sharing
+
 ```
 
 **To get your link:**
@@ -33,9 +32,6 @@ Share Setting: Must be shared (Viewer access minimum)
 
 ```
 Sample Image Link: [PASTE SAMPLE IMAGE LINK HERE]
-Format: https://drive.google.com/file/d/FILE_ID/view
-Or: https://example.com/sample_braille.jpg
-```
 
 ### Sample Output/Demo
 **Status:** ⏳ PLACEHOLDER  
@@ -48,11 +44,6 @@ Sample Output Link: [PASTE OUTPUT IMAGE LINK HERE]
 
 ---
 
-## 👥 Team Contact Links
-
-### GitHub Repository
-**Status:** ✅ ACTIVE  
-**URL:** https://github.com/jatin-karma/TouchVision
 
 
 
@@ -70,12 +61,8 @@ Sample Output Link: [PASTE OUTPUT IMAGE LINK HERE]
 Colab Notebook Link: [https://colab.research.google.com/drive/16T3sgekxeIAqGNHo1bHo6XEPvq-LqHt4?usp=sharing]
 
 ### Model Weights Location
-**Status:** ⏳ PLACEHOLDER (if hosted externally)
+ "/content/runs/detect/runs/detect/braillevision/weights" 
 
-```
-Model Link: [PASTE MODEL DOWNLOAD LINK IF EXTERNAL]
-Format: Google Drive, Hugging Face, or other hosting
-```
 
 ### Additional Resources
 
