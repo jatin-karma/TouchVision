@@ -1,0 +1,163 @@
+# 🔗 QUICK LINK REFERENCE CARD
+
+**Print this out or bookmark it!**
+
+---
+
+## 📝 Where to Add Your Links
+
+### Main File (Most Important)
+**FILE:** `PROJECT_LINKS.md`
+**EDIT WITH:** Visual Studio Code, Notepad, or any text editor
+**COMMAND:** `code d:/BrailleVision/PROJECT_LINKS.md`
+
+---
+
+## 🎯 Priority Links to Add (in order)
+
+### 1️⃣ HIGH PRIORITY - Add First!
+
+**Google Drive Dataset Folder Link**
+```
+File: PROJECT_LINKS.md
+Section: 🔗 Essential Links > Dataset (Google Drive)
+Replace: [PASTE YOUR DATASET LINK HERE]
+Example: https://drive.google.com/drive/folders/1aB2cD3eF4...
+```
+
+**How to get link:**
+1. Open Google Drive
+2. Right-click your dataset folder
+3. Click "Get link"
+4. Copy & paste into PROJECT_LINKS.md
+
+---
+
+### 2️⃣ MEDIUM PRIORITY - Add Next
+
+**Sample Input Image**
+```
+File: PROJECT_LINKS.md
+Section: 📌 Sample Content Links > Sample Input Image
+Replace: [PASTE SAMPLE IMAGE LINK HERE]
+Example: https://drive.google.com/file/d/1xY2zAb3cD4.../view
+```
+
+**Sample Output/Demo**
+```
+File: PROJECT_LINKS.md
+Section: 📌 Sample Content Links > Sample Output/Demo
+Replace: [PASTE DEMO VIDEO LINK HERE]
+```
+
+---
+
+### 3️⃣ NORMAL PRIORITY - Add Before Submission
+
+**Team Contact Info**
+```
+File: PROJECT_LINKS.md
+Section: 👥 Team Contact Links
+
+Team Name:        [YOUR_TEAM_NAME]
+Team Leader:      [YOUR_NAME]
+Email:            [your.email@example.com]
+Phone:            [+XX XXX XXXX XXXX]
+GitHub Repo:      [YOUR_REPO_LINK]
+```
+
+---
+
+## ✅ Quick Checklist
+
+Copy this to your notes:
+
+```
+BEFORE SUBMISSION, VERIFY:
+
+☐ Dataset folder link added to PROJECT_LINKS.md
+☐ Link is shared (set to "Viewer" minimum)
+☐ Sample image link added
+☐ Sample output/demo link added
+☐ Team name added
+☐ Team leader name added
+☐ Email address added
+☐ Phone number added
+☐ GitHub repository link added
+☐ All [PASTE HERE] placeholders replaced
+☐ All links tested (clicked to verify working)
+☐ Committed to GitHub
+```
+
+---
+
+## 🔗 Links Quick Copy-Paste Format
+
+Use this format for each link you add:
+
+```markdown
+https://drive.google.com/drive/folders/YOUR_FOLDER_ID
+```
+
+or
+
+```markdown
+https://drive.google.com/file/d/YOUR_FILE_ID/view
+```
+
+---
+
+## 📍 File Locations Reference
+
+```
+d:/BrailleVision/PROJECT_LINKS.md        ← MAIN FILE (Start here!)
+d:/BrailleVision/README.md                ← References PROJECT_LINKS.md
+d:/BrailleVision/TRAINING_GUIDE.md        ← Has dataset link at top
+```
+
+---
+
+## 💡 Pro Tips
+
+1. **Use short URLs?** Google Drive links are long. Consider:
+   - Using bit.ly or tinyurl to shorten
+   - Or leave full link (both work fine)
+
+2. **Sharing Settings Matter:**
+   - Right-click link → Share settings
+   - Set to "Viewer" (read-only) for datasets
+   - Anyone with link can access
+
+3. **Test Your Links:**
+   - Click each link before submitting
+   - Make sure they actually work
+   - Verify they show the right content
+
+4. **Keep Links Updated:**
+   - If you update files on Drive, update the link too
+   - Or keep same link and replace files in Drive
+
+---
+
+## 🚀 When You're Done
+
+```bash
+# Commit your links to GitHub
+git add PROJECT_LINKS.md
+git commit -m "Add project links and team contact info"
+git push
+```
+
+---
+
+## ❓ Need Help?
+
+1. Read **PROJECT_LINKS.md** - has full instructions
+2. Check **TRAINING_GUIDE.md** - dataset link section
+3. Review **README.md** - sample links section
+
+---
+
+**Status:** Ready to add links!
+**Time to Complete:** ~5 minutes
+**Next Step:** Open PROJECT_LINKS.md and add your dataset link!

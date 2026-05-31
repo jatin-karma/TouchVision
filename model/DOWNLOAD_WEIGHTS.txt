@@ -1,0 +1,13 @@
+⚠️  NOTE: Model weights (best.pt) need to be downloaded separately.
+
+The model file 'best.pt' is not included in the repository due to size constraints.
+
+To download the model:
+1. Download from provided link in model/model_info.md
+2. Place the 'best.pt' file in the 'd:\BrailleVision\model\' directory
+3. The system will then be ready for inference
+
+File should be at: d:\BrailleVision\model\best.pt
+
+Size: ~50-100 MB
+Format: YOLOv8 PyTorch model

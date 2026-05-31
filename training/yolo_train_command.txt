@@ -1,0 +1,9 @@
+yolo detect train \
+  data=dataset/data.yaml \
+  model=yolov8n.pt \
+  epochs=100 \
+  imgsz=640 \
+  batch=16 \
+  name=braille_dot_detector \
+  patience=20 \
+  device=0
