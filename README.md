@@ -22,6 +22,14 @@ Camera Input → Preprocessing (OpenCV) → Dot Detection (YOLOv8) → Cell Grou
 
 ---
 
+## Google Drive Links : https://drive.google.com/drive/folders/1K_dG97WgqJiI14l4B9YQxJoDKqa4jcZo?usp=sharing
+contains:
+- Dataset (images + labels)
+- Model weights ('best.pt') ('last.pt')
+- Sample input images
+- Training dataset 
+- Model info and dataset info documentation
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
